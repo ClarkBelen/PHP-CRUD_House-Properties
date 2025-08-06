@@ -1,7 +1,7 @@
 # PHP CRUD | House Properties
 A Dynamic Website with CRUD Operation using PHP - House Properties
 
-Final outcome: http://houseproperties-crud.infinityfreeapp.com/
+Final outcome: https://crud-realestate.wuaze.com/index.php
 
 # Screenshots
 <p align="center">Main Page (Displaying/Deleting Records)</p>
